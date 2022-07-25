@@ -1,2 +1,2 @@
 # ImageClassificationCNN
-Implementation of an image Classification CNN (Convolutional Neural Network) in Keras Tensorflow
+Implementation of an image Classification CNN (Convolutional Neural Network) in Tensorflow Keras.
